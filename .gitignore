@@ -1,0 +1,8 @@
+*.pem
+*.key
+*.retry
+*~
+*.bak
+__pycache__/
+.venv/
+inventory/hosts.ini
